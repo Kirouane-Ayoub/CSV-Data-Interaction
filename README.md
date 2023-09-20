@@ -4,13 +4,18 @@
 This project focuses on enabling efficient interaction with CSV data using advanced language technologies. It includes two versions: a RAG (Retrieval Augmented Generation) chatbot and a REACT (ReAct Prompting) Agent. Both versions offer unique ways to extract insights and perform tasks with CSV data.
 
 ## Version 1: RAG Chatbot
+![jumpstart-fm-rag](https://github.com/Kirouane-Ayoub/CSV-Data-Interaction/assets/99510125/e52ec4ae-7f8a-4cc4-9638-5f80f45a101a)
 
 The RAG chatbot leverages LangChain, ChromaDB, and Hugging Face's large language models to provide an intuitive interface for users to inquire about and analyze CSV data.
 It employs Retrieval Augmented Generation (RAG) to find answers within the CSV dataset and generate concise responses, making data exploration effortless.
+
 ## Version 2: REACT Agent
 
 The REACT Agent is built using REACT prompting, a few-shot task-solving approach. It utilizes human-written text reasoning traces, actions, and environment observations to interact with CSV data.
 This version offers a flexible and powerful way to perform various tasks with CSV data, from question answering to data manipulation, all through natural language prompts.
+
+<img width="1535" alt="diagram" src="https://github.com/Kirouane-Ayoub/CSV-Data-Interaction/assets/99510125/a307839b-29d3-4cc1-984e-2b8340643c1a">
+
 ## Key Features:
 
 + User-friendly GUI for both versions, making data interaction accessible to all users.
